@@ -248,10 +248,12 @@
 		},
 		{
 			"scope": [
-				"constant.other.color"
+				"constant.other.color",
+				"constant"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#FFFFFF",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -339,10 +341,11 @@
 				"punctuation.definition.comment.scss",
 				"punctuation.definition.comment.js",
 				"punctuation.definition.comment.html",
-				"comment.block.html"
+				"comment.block.html",
+				"comment.block"
 			],
 			"settings": {
-				"foreground": "#6D6F7C"
+				"foreground": "#3d3d3d"
 			}
 		},
 		{
@@ -377,7 +380,8 @@
 				"variable.parameter.keyframe-list.css"
 			],
 			"settings": {
-				"foreground": "#FF6F00"
+				"foreground": "#FF6F00",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -390,7 +394,7 @@
 			],
 			"settings": {
 				"foreground": "#DCE6FF",
-				"fontStyle": ""
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -415,7 +419,8 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#4382FF"
+				"foreground": "#4382FF",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -511,7 +516,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#DCE6FF"
+				"foreground": "#DCE6FF",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -558,7 +564,8 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#ff7300"
+				"foreground": "#ff7300",
+				"fontStyle": "bold"
 			}
 		},
 		{
