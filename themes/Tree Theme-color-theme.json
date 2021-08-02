@@ -193,6 +193,7 @@
 		"terminal.ansiYellow": "#FF6F00",
 		"terminalCursor.background": "#111111",
 		"terminalCursor.foreground": "#FF6F00",
+		"terminal.selectionBackground": "#ff0000",
 		"textLink.activeForeground": "#FFEC42",
 		"textLink.foreground": "#FFFFFF",
 		"titleBar.activeBackground": "#111111",
