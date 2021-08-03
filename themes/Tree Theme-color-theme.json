@@ -3,7 +3,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#00030c",
+		"activityBar.background": "#000513",
 		"activityBar.border": "#ffffff60",
 		"activityBar.foreground": "#ffffff",
 		"activityBarBadge.background": "#4382FF",
@@ -22,7 +22,7 @@
 		"diffEditor.removedTextBackground": "#FF000020",
 		"dropdown.background": "#111111",
 		"dropdown.border": "#FFFFFF10",
-		"editor.background": "#000108",
+		"editor.background": "#070a24",
 		"editor.findMatchBackground": "#000000",
 		"editor.findMatchBorder": "#FFFFFF",
 		"editor.findMatchHighlightBackground": "#FFFFFF93",
