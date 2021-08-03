@@ -253,7 +253,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#000000",
 				"fontStyle": "bold"
 			}
 		},
@@ -420,7 +420,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#4382FF",
+				"foreground": "#00b33c",
 				"fontStyle": "italic"
 			}
 		},
