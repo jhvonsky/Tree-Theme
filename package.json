@@ -1,11 +1,40 @@
 {
     "name": "tree-theme",
     "displayName": "Tree Theme",
-    "description": "",
+    "description": "Tree theme for minimalist color and good for web development!",
+    "publisher": "jhvonsky",
+    "author": {
+        "name": "jhvonsky & ulrmdhn"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
     },
+    "keywords": [
+        "Theme",
+        "theme",
+        "tree",
+        "minimalist",
+        "blue",
+        "orange",
+        "black",
+        "html",
+        "css",
+        "javascript",
+        "cobalt"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jhvonsky/Tree-Theme"
+    },
+    "bugs": {
+        "url": "https://github.com/jhvonsky/Tree-Theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#09121b",
+        "theme": "dark"
+    },
+    "icon": "",
     "categories": [
         "Themes"
     ],

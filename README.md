@@ -1,6 +1,5 @@
 # 🌲 Tree Theme
-Tree theme is the new theme for vscode.
-
+Tree theme for minimalist color and good for web development!
 
 ## SCREENSHOOT
 ---
@@ -17,7 +16,9 @@ Tree theme is the new theme for vscode.
 ![ScreenShoot](./images/terminal.png)
 
 #### Setting
-![ScreenShoot](./images/setting.png)
+![ScreenShoot](./images/settings.png)
 
 #### Markdown
-**Enjoy!**
+![ScreenShoot](./images/markdown.png)
+
+**🚀 Enjoy!**
