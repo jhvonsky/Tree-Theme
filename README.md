@@ -3,22 +3,22 @@ Tree theme for minimalist color and good for web development!
 
 ## SCREENSHOOT
 ---
-#### HTML
+### HTML
 ![ScreenShoot](./images/html.png)
 
-#### CSS
+### CSS
 ![ScreenShoot](./images/css.png)
 
-#### JS
+### JS
 ![ScreenShoot](./images/js.png)
 
-#### Terminal
+### Terminal
 ![ScreenShoot](./images/terminal.png)
 
-#### Setting
+### Setting
 ![ScreenShoot](./images/settings.png)
 
-#### Markdown
+### Markdown
 ![ScreenShoot](./images/markdown.png)
 
 **🚀 Enjoy!**
