@@ -15,7 +15,7 @@ Tree theme for minimalist color and good for web development!
 ### Terminal
 ![ScreenShoot](./images/terminal.png)
 
-### Setting
+### Settings
 ![ScreenShoot](./images/settings.png)
 
 ### Markdown
