@@ -2,7 +2,7 @@
 Tree theme for minimalist color and good for web development!
 
 ## SCREENSHOOT
----
+
 ### HTML
 ![ScreenShoot](./images/html.png)
 
