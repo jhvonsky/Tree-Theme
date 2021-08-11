@@ -1,5 +1,5 @@
 # 🌲 Tree Theme
-Tree theme for minimalist color and good for web development!. Found my extension (here)[https://marketplace.visualstudio.com/items?itemName=jevon.tree-theme]
+Tree theme for minimalist color and good for web development!. Found my extension [here](https://marketplace.visualstudio.com/items?itemName=jevon.tree-theme)
 
 ## SCREENSHOOT
 
