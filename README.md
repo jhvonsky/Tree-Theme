@@ -22,7 +22,7 @@ Tree theme for minimalist color and good for web development!
 ![ScreenShoot](./images/markdown.png)
 
 ### Contact
-If theres any problems or you want contribute please contact jhvonsky@gmail.com or visi my [github](https://github.com/jhvonsky)
+If theres any problems or you want contribute please contact jhvonsky@gmail.com or visit my [github](https://github.com/jhvonsky)
 
 
 **🚀 Enjoy!**
